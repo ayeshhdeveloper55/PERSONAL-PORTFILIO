@@ -1,0 +1,38 @@
+
+.Education{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+
+}
+.edu4{
+    width: 400px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.edu1{
+    text-align: center;
+    color: blue;
+    margin-left: 400px;
+    margin-top:20px ;
+    text-shadow: 2px 2px 2px goldenrod;
+}
+
+.edu2{
+    margin-top: 60px;
+}
+.gra1{
+    color: gold;
+    margin-left: 150px;
+    text-align: center;
+    
+}
+.gra1:hover{
+    color: blue;
+}
+p{
+    margin-left: 150px;
+    color: grey;
+    text-align: center;
+}

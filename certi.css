@@ -1,0 +1,61 @@
+
+.cer2{
+    display: flex;
+}
+.certificates{
+    background-color: black;
+
+}
+.cer1{
+    text-align: center;
+    color: blue;
+    padding-top:50px ;
+    text-shadow: 2px 2px 2px goldenrod;
+}
+
+
+.cer2{
+    gap: 50px;
+    margin-top: 70px;
+    margin-left: 180px;
+   
+}
+.cer3{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: gold;
+
+}
+
+.cer4{
+    width: 300px;
+    height: 200px;
+    border: 4px solid gold;
+    border-radius: 20px;
+    
+}
+.cer3:hover{
+    color: blue;
+
+}
+.cer4:hover{
+    border: 4px solid blue;
+    box-shadow: 2px 2px 5px gold;
+
+}
+
+.btn6{
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 30px;
+    width: 260px;
+    height: 50px;
+    border: 4px solid gold;
+    font-size: 20px;
+    color: blue;
+    font-weight: 700;
+    margin-bottom: 30px;
+}

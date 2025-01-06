@@ -1,0 +1,44 @@
+
+.contact{
+    background-color: black;
+    height: 100vh;
+}
+.con1{
+    text-align: center;
+    color: blue;
+    text-shadow: 2px 2px 2px gold;
+    padding-top: 40px;
+    font-size: 50px;
+}
+.con1:hover{
+    color: gold;
+}
+.con2{
+    padding-right: 150px;
+    padding-top: 50px;
+    color: grey;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 200px;
+    text-align: center;
+}
+.btn7{
+    width: 130px;
+    height: 40px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px blue;
+    margin-left: 20px;
+    border: 4px solid gold;
+    
+}
+.btn7:hover{
+    background-color: gold;
+
+}
+.btn8{
+    margin-left: 500px;
+    
+    
+}
